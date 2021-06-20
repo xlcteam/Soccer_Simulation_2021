@@ -1,0 +1,30 @@
+{"datetime": "2021-06-12T21:15:20.477499Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-12T21:15:20.481488Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600}}
+{"datetime": "2021-06-12T21:15:23.321182Z", "matchtime": 14.527999999991948, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T21:15:27.479436Z", "matchtime": 31.80799999998237, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T21:15:31.389136Z", "matchtime": 50.81599999997184, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T21:15:38.224055Z", "matchtime": 78.71999999995637, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T21:15:42.656313Z", "matchtime": 95.9999999999539, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T21:15:55.193500Z", "matchtime": 141.05599999996895, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T21:16:00.727714Z", "matchtime": 159.10399999997497, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T21:16:16.881538Z", "matchtime": 213.31199999999308, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T21:16:27.316705Z", "matchtime": 246.46400000000415, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-12T21:16:29.598183Z", "matchtime": 252.6080000000062, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T21:16:38.970220Z", "matchtime": 281.15200000001573, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T21:16:48.117950Z", "matchtime": 310.4640000000255, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2021-06-12T21:16:49.165059Z", "matchtime": 313.4720000000265, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-12T21:16:56.795191Z", "matchtime": 320.38400000002883, "event": "GOAL", "payload": {"team_name": "The Yellows", "score_yellow": 1, "score_blue": 1}}
+{"datetime": "2021-06-12T21:16:58.086020Z", "matchtime": 323.39200000002984, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-12T21:17:03.126435Z", "matchtime": 338.68800000003495, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T21:17:06.433147Z", "matchtime": 348.80000000003616, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T21:17:12.105759Z", "matchtime": 364.48000000003447, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T21:17:25.766558Z", "matchtime": 404.48000000003003, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T21:17:35.046623Z", "matchtime": 432.83200000002694, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T21:17:40.811959Z", "matchtime": 450.496000000025, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T21:17:47.586421Z", "matchtime": 469.95200000002285, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T21:17:54.361755Z", "matchtime": 490.75200000002053, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T21:17:57.514423Z", "matchtime": 500.8640000000194, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T21:18:00.580200Z", "matchtime": 510.9760000000183, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T21:18:04.928707Z", "matchtime": 524.9920000000168, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T21:18:15.756897Z", "matchtime": 558.7200000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T21:18:32.614986Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 1, "score_blue": 1}}

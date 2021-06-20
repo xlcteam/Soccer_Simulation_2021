@@ -1,0 +1,3 @@
+{"datetime": "2021-06-12T14:45:21.750255Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-12T14:45:21.820837Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600}}
+{"datetime": "2021-06-12T14:46:42.620230Z", "matchtime": 104.51199999995674, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}

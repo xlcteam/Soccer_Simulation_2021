@@ -1,0 +1,41 @@
+{"datetime": "2021-06-12T14:59:53.120681Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-12T14:59:53.194719Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600}}
+{"datetime": "2021-06-12T15:00:07.027317Z", "matchtime": 36.03199999998003, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T15:00:10.907889Z", "matchtime": 53.24799999997049, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T15:00:12.178533Z", "matchtime": 60.86399999996627, "event": "GOAL", "payload": {"team_name": "The Yellows", "score_yellow": 1, "score_blue": 0}}
+{"datetime": "2021-06-12T15:00:12.802884Z", "matchtime": 63.8719999999646, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-12T15:00:23.126912Z", "matchtime": 105.279999999957, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-12T15:00:23.291898Z", "matchtime": 105.91999999995721, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-12T15:00:23.347385Z", "matchtime": 106.11199999995728, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-12T15:00:23.348766Z", "matchtime": 106.11199999995728, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T15:00:23.406481Z", "matchtime": 106.30399999995734, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-12T15:00:36.664401Z", "matchtime": 146.0479999999706, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-12T15:00:36.686420Z", "matchtime": 146.11199999997064, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-12T15:00:36.704340Z", "matchtime": 146.17599999997066, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-12T15:00:36.962511Z", "matchtime": 147.199999999971, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-12T15:00:37.243748Z", "matchtime": 148.35199999997138, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-12T15:00:53.700413Z", "matchtime": 204.47999999999013, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T15:01:05.156218Z", "matchtime": 242.88000000000295, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T15:01:11.200046Z", "matchtime": 264.5120000000102, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T15:01:14.225202Z", "matchtime": 275.26400000001377, "event": "GOAL", "payload": {"team_name": "The Yellows", "score_yellow": 2, "score_blue": 0}}
+{"datetime": "2021-06-12T15:01:15.074291Z", "matchtime": 278.27200000001477, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-12T15:01:19.191613Z", "matchtime": 292.1600000000194, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T15:01:31.258759Z", "matchtime": 333.1200000000331, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T15:01:39.539449Z", "matchtime": 363.32800000003454, "event": "GOAL", "payload": {"team_name": "The Yellows", "score_yellow": 3, "score_blue": 0}}
+{"datetime": "2021-06-12T15:01:40.496790Z", "matchtime": 366.33600000003423, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-12T15:01:45.875667Z", "matchtime": 384.7680000000322, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T15:01:51.264509Z", "matchtime": 402.4960000000302, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T15:01:53.105008Z", "matchtime": 409.5360000000295, "event": "GOAL", "payload": {"team_name": "The Yellows", "score_yellow": 4, "score_blue": 0}}
+{"datetime": "2021-06-12T15:01:53.972029Z", "matchtime": 412.54400000002914, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-12T15:01:57.714501Z", "matchtime": 424.8320000000278, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T15:02:06.156503Z", "matchtime": 453.18400000002464, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T15:02:25.900170Z", "matchtime": 517.7600000000175, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T15:02:27.807685Z", "matchtime": 524.7360000000168, "event": "GOAL", "payload": {"team_name": "The Yellows", "score_yellow": 5, "score_blue": 0}}
+{"datetime": "2021-06-12T15:02:28.669162Z", "matchtime": 527.7440000000165, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-12T15:02:32.695209Z", "matchtime": 543.6800000000155, "event": "GOAL", "payload": {"team_name": "The Yellows", "score_yellow": 6, "score_blue": 0}}
+{"datetime": "2021-06-12T15:02:33.461369Z", "matchtime": 546.6880000000156, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-12T15:02:38.926881Z", "matchtime": 567.8720000000155, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T15:02:39.173063Z", "matchtime": 568.8960000000155, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-12T15:02:39.357445Z", "matchtime": 569.6000000000156, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-12T15:02:39.510114Z", "matchtime": 570.1760000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-12T15:02:48.167159Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 6, "score_blue": 0}}

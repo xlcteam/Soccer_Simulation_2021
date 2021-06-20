@@ -1,0 +1,34 @@
+{"datetime": "2021-06-12T14:00:17.066640Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-12T14:00:17.144366Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600}}
+{"datetime": "2021-06-12T14:00:24.023633Z", "matchtime": 16.703999999990742, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T14:00:35.861616Z", "matchtime": 37.887999999979, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T14:00:44.238971Z", "matchtime": 55.55199999996921, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T14:00:48.973660Z", "matchtime": 77.7599999999569, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T14:00:57.499291Z", "matchtime": 113.40799999995971, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T14:00:58.533092Z", "matchtime": 117.5679999999611, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-12T14:01:02.980799Z", "matchtime": 133.63199999996647, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T14:01:09.122849Z", "matchtime": 151.9999999999726, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T14:01:10.859342Z", "matchtime": 157.63199999997448, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-12T14:01:15.305423Z", "matchtime": 171.00799999997895, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T14:01:24.845196Z", "matchtime": 193.40799999998643, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T14:01:32.531570Z", "matchtime": 211.51999999999248, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T14:01:35.471973Z", "matchtime": 221.63199999999586, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T14:01:39.617384Z", "matchtime": 235.2640000000004, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T14:01:45.539806Z", "matchtime": 254.91200000000697, "event": "GOAL", "payload": {"team_name": "The Yellows", "score_yellow": 1, "score_blue": 0}}
+{"datetime": "2021-06-12T14:01:46.858492Z", "matchtime": 257.920000000008, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-12T14:01:55.476892Z", "matchtime": 284.48000000001684, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T14:02:02.061958Z", "matchtime": 303.7440000000233, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T14:02:11.288803Z", "matchtime": 333.31200000003315, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T14:02:16.735024Z", "matchtime": 349.95200000003604, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T14:02:23.056912Z", "matchtime": 369.2160000000339, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T14:02:29.813614Z", "matchtime": 388.86400000003175, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T14:02:36.630937Z", "matchtime": 407.61600000002966, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T14:02:39.816065Z", "matchtime": 417.7280000000286, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T14:02:42.899101Z", "matchtime": 427.84000000002743, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T14:03:00.570531Z", "matchtime": 474.36800000002233, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T14:03:31.264730Z", "matchtime": 504.704000000019, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T14:04:33.706030Z", "matchtime": 565.2480000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T14:04:41.358482Z", "matchtime": 572.2240000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-12T14:04:41.484563Z", "matchtime": 572.3520000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-12T14:04:56.085027Z", "matchtime": 586.3680000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-12T14:05:10.103810Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 1, "score_blue": 0}}
