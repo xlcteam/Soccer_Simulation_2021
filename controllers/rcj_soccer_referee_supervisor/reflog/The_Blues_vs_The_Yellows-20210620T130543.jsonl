@@ -1,0 +1,6 @@
+{"datetime": "2021-06-20T13:05:44.043180Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-20T13:05:44.157526Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600}}
+{"datetime": "2021-06-20T13:06:00.534384Z", "matchtime": 13.951999999992267, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-20T13:06:11.929348Z", "matchtime": 24.063999999986663, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-20T13:08:37.193418Z", "matchtime": 41.40799999997705, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-20T13:09:50.592950Z", "matchtime": 66.49599999996315, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}

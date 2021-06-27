@@ -1,0 +1,28 @@
+{"datetime": "2021-06-20T20:58:17.110012Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-20T20:58:17.186573Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600}}
+{"datetime": "2021-06-20T20:58:54.249239Z", "matchtime": 27.71199999998464, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-20T20:59:19.251153Z", "matchtime": 48.06399999997336, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-20T20:59:41.692900Z", "matchtime": 68.41599999996208, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-20T21:00:11.736864Z", "matchtime": 94.2079999999533, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-20T21:00:22.603064Z", "matchtime": 104.31999999995668, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-20T21:01:08.971587Z", "matchtime": 146.0479999999706, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-20T21:01:34.618040Z", "matchtime": 165.95199999997726, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-20T21:01:55.361384Z", "matchtime": 183.7439999999832, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-20T21:02:19.311753Z", "matchtime": 204.09599999999, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-20T21:02:48.861145Z", "matchtime": 229.11999999999836, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-20T21:03:09.507869Z", "matchtime": 246.6560000000042, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-20T21:04:37.312062Z", "matchtime": 317.76000000002796, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-20T21:05:07.343091Z", "matchtime": 344.44800000003664, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-20T21:05:29.702941Z", "matchtime": 362.94400000003463, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-20T21:05:57.347288Z", "matchtime": 384.51200000003223, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-20T21:06:23.175255Z", "matchtime": 406.7200000000298, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-20T21:06:46.878999Z", "matchtime": 426.56000000002757, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-20T21:07:09.667871Z", "matchtime": 445.18400000002555, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-20T21:07:35.871919Z", "matchtime": 465.0880000000234, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-20T21:08:00.887576Z", "matchtime": 484.4800000000212, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-20T21:08:32.885455Z", "matchtime": 509.69600000001844, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-20T21:08:55.662180Z", "matchtime": 528.5120000000163, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-20T21:09:18.220390Z", "matchtime": 545.9840000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-20T21:09:45.585374Z", "matchtime": 568.5120000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-20T21:10:09.182121Z", "matchtime": 588.7360000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-20T21:10:22.552175Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 0, "score_blue": 0}}
