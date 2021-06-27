@@ -1,5 +1,7 @@
 # Soccer_Simulation_2021
 Code for our simulatated robots for RCJ 2021 created by Jakub Gál
+Challenges:
+https://youtu.be/IeJpX4AsrdM
 
 Video:
 https://www.youtube.com/watch?v=J4LKlJkgkYk
